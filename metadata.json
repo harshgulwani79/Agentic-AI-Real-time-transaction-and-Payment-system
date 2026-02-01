@@ -1,0 +1,5 @@
+{
+  "name": "PayAgent AI: Smart Ops Manager_CC",
+  "description": "An autonomous multi-agent AI system for real-time payment operations. Implements an Observe-Reason-Decide-Act-Learn loop using Gemini-powered intelligence.",
+  "requestFramePermissions": []
+}
